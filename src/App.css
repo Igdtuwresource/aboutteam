@@ -504,6 +504,13 @@ a.instagram {
     width:120px;
     height:120px;
   }
+  .ridhid{
+    font-size:10px;
+    margin-top:0px;
+  }
+  .all{
+    font-size:15px;
+  }
   .flip-cardr{
     height:120px;
     width:120px;
@@ -512,6 +519,10 @@ a.instagram {
   .muskan{
     width:120px;
     height:120px;
+  }
+  .muskand{
+    font-size:9px;
+    margin-top:0px;
   }
   .flip-card{
     width:120px;
@@ -522,6 +533,10 @@ a.instagram {
     width:120px;
     height:120px;
   }
+  .anamikad{
+    font-size:9px;
+    margin-top:0px;
+  }
   .flip-carda{
     width:120px;
     height:120px;
@@ -531,6 +546,10 @@ a.instagram {
     width:120px;
     height:120px;
   }
+  .alkad{
+    font-size:9px;
+    margin-top:0px;
+  }
   .flip-cardl{
     
     width:120px;
@@ -539,7 +558,11 @@ a.instagram {
   }
   .upasana{
     width:120px;
-    height:120px;
+    height:130px;
+  }
+  .upasanad{
+    font-size:9px;
+    margin-top:0px;
   }
   .flip-cardu{
     width:120px;
@@ -547,4 +570,5 @@ a.instagram {
     height:120px;
     margin-left:70px;
   }
+
 }

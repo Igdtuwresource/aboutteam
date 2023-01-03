@@ -98,8 +98,8 @@ function Tabs() {
       <img src={ridhi} className="ridhi"/>
     </div>
     <div className="flip-cardr-back">
-      <h3>Ridhi</h3><br/>
-      <h4>#Web Developer</h4><br/>
+      <h3 className="all">Ridhi</h3><br/>
+      <h4 className="ridhid" >#Web Developer</h4><br/>
       <h4 className="ridhid">Majoring in <br/>Computer Science @ IGDTUW</h4>
       
     </div>
@@ -111,8 +111,8 @@ function Tabs() {
       <img src={muskan} height={280} width={250} className="muskan"/>
     </div>
     <div class="flip-card-back">
-      <h3>Muskan</h3><br/>
-      <h4>#Web Developer</h4><br/>
+      <h3 className="all">Muskan</h3><br/>
+      <h4 className="muskand">#Web Developer</h4><br/>
       <h4 className="muskand">Majoring in Computer<br/> Science - Artificial<br/>Intelligence @ IGDTUW</h4>
       
     </div>
@@ -125,8 +125,8 @@ function Tabs() {
       <img src={anamika} height={300} width={250} className="anamika"/>
     </div>
     <div class="flip-carda-back">
-      <h3>Anamika</h3><br/>
-      <h4>#Web Developer</h4><br/>
+      <h3 className="all">Anamika</h3><br/>
+      <h4 className="anamikad">#Web Developer</h4><br/>
     <h4 className="anamikad">Majoring in Computer<br/> Science - Artificial<br/>Intelligence @ IGDTUW</h4>
     </div>
   </div>
@@ -138,8 +138,8 @@ function Tabs() {
       <img src={alka} height={300} width={300} className="alka"/ >
     </div>
     <div className="flip-cardl-back">
-      <h3>Alka</h3><br/>
-      <h4>#Web Developer</h4><br/>
+      <h3 className="all">Alka</h3><br/>
+      <h4 className="alkad">#Web Developer</h4><br/>
       <h4 className="alkad">Majoring in Computer<br/> Science - Artificial<br/>Intelligence @ IGDTUW</h4>
      
     </div>
@@ -152,8 +152,8 @@ function Tabs() {
       <img src={upasana} height={300} width={300} className="upasana"/ >
     </div>
     <div className="flip-cardu-back">
-      <h3>Upasana</h3><br/>
-      <h4>#Web Developer</h4><br/>
+      <h3 className="all">Upasana</h3><br/>
+      <h4 className="upasanad">#Web Developer</h4><br/>
       <h4 className="upasanad">Majoring in <br/>Information <br/>Technology @ IGDTUW</h4>
      
     </div>
